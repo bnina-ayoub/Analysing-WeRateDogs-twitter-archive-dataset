@@ -21,5 +21,9 @@ Step 4: Storing data
 Step 5: Analyzing, and visualizing data
 
 Step 6: Reporting
--My data wrangling efforts
--My data analyses and visualizations
+
+
+* My data wrangling efforts
+
+
+* My data analyses and visualizations
