@@ -26,4 +26,4 @@ Step 6: Reporting
 * My data wrangling efforts
 
 
-* My data analyses and visualizations
+* My data analysis and visualizations
