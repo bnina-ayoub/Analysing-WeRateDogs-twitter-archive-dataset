@@ -23,7 +23,7 @@ Step 5: Analyzing, and visualizing data
 Step 6: Reporting
 
 
-* My data wrangling efforts
+* Data wrangling
 
 
-* My data analysis and visualizations
+* Data analysis and Visualizations
